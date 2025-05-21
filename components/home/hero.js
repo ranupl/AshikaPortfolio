@@ -11,7 +11,7 @@ export default function Hero() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="order-2 md:order-1">
             <h1 className="text-4xl sm:text-5xl font-bold tracking-tight">
-              Hi, I'm <span className="text-primary">Ashika Panchal</span>
+              Hi, I am <span className="text-primary">Ashika Panchal</span>
             </h1>
             <h2 className="mt-4 text-xl sm:text-2xl font-medium text-muted-foreground">
               BCA Student • Data Science Enthusiast

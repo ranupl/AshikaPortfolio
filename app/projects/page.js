@@ -8,7 +8,7 @@ export default function ProjectsPage() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <h1 className="text-4xl font-bold mb-6 text-center">My Projects</h1>
         <p className="text-lg text-muted-foreground mb-12 text-center max-w-3xl mx-auto">
-          A collection of data science and machine learning projects I've built to solve real-world problems
+          A collection of data science and machine learning projects I have built to solve real-world problems
           and demonstrate my technical skills.
         </p>
         

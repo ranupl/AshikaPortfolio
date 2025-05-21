@@ -10,10 +10,10 @@ export default function Bio() {
           {personalInfo.bio}
         </p>
         <p className="text-lg text-muted-foreground leading-relaxed">
-          I'm currently pursuing my Bachelor's degree in Computer Application at Royal Institute Of 
-          Technology and Advanced Studies, Ratlam, where I've been developing a strong foundation 
+          I am currently pursuing my Bachelors degree in Computer Application at Royal Institute Of 
+          Technology and Advanced Studies, Ratlam, where I have been developing a strong foundation 
           in programming, algorithms, and data structures. My academic journey has allowed me to 
-          explore various aspects of computer science, but I've found my passion in data science 
+          explore various aspects of computer science, but I have found my passion in data science 
           and machine learning.
         </p>
       </div>
